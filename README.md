@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01_05 Challenge: Build a CI Workflow for a Python Project
 
 In this challenge, you’ll create a **continuous integration (CI) workflow** for a Django application using **GitHub Actions**. You’ll start from a brand-new repository, add the project files, configure a starter workflow, and debug a failing build until the workflow completes successfully.
@@ -21,3 +22,6 @@ This challenge should take 15 to 20 minutes to complete.
 ---
 [← 01_04 Set Up CI for Go](../01_04_ci_for_go/README.md) | [01_06 Solution: Build a CI Workflow for a Python Project →](../01_06_solution_ci_workflow/README.md)
 <!-- FooterEnd -->
+=======
+# Django_project.
+>>>>>>> d1b104e60ddb46ad396aa52016e5936bb7db4bc2
